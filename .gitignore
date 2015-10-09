@@ -3,3 +3,6 @@
 /.ideas/*
 *.gp
 *.gpmo
+./.ideas/
+.ideas/
+.DS_STORE
